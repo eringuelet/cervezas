@@ -5,7 +5,7 @@ var app = require('./app');
 var port = process.env.PORT || 3977;
 
 mongoose.Promise = global.Promise;
-mongoose.connect('mongodb://localhost:27017/curso_mean', (err, res) =>{
+mongoose.connect('mongodb://localhost:27017/app_cervecerias', (err, res) =>{
 	if (err) {
 		throw err;
 	}

@@ -1,0 +1,649 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"A",
+				"Access-Control-Allow-Origin"
+			],
+			[
+				"getSon",
+				"getSongFile"
+			],
+			[
+				"upload",
+				"uploadFile"
+			],
+			[
+				"up",
+				"updateSong"
+			],
+			[
+				"get",
+				"getSongs"
+			],
+			[
+				"save",
+				"saveSong"
+			],
+			[
+				"song",
+				"songSaved"
+			],
+			[
+				"albu",
+				"album"
+			],
+			[
+				"getAlb",
+				"getAlbums"
+			],
+			[
+				"album",
+				"albums"
+			],
+			[
+				"ex",
+				"exec"
+			],
+			[
+				"art",
+				"artist"
+			],
+			[
+				"ar",
+				"artistId"
+			],
+			[
+				"artis",
+				"artistId"
+			],
+			[
+				"a",
+				"album"
+			],
+			[
+				"al",
+				"album_routes"
+			],
+			[
+				"Art",
+				"ArtistController"
+			],
+			[
+				"artist",
+				"artistUpdated"
+			],
+			[
+				"arti",
+				"artistId"
+			],
+			[
+				"find",
+				"findByIdAndUpdate"
+			],
+			[
+				"upda",
+				"updateArtist"
+			],
+			[
+				"re",
+				"res"
+			],
+			[
+				"ari",
+				"artistUpdated"
+			],
+			[
+				"sa",
+				"status"
+			],
+			[
+				"path",
+				"path_file"
+			],
+			[
+				"se",
+				"send"
+			],
+			[
+				"pat",
+				"path_file"
+			],
+			[
+				"image",
+				"imageFile"
+			],
+			[
+				"fin",
+				"findByIdAndUpdate"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"md",
+				"md_upload"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"user",
+				"userUpdated"
+			],
+			[
+				"req",
+				"req"
+			],
+			[
+				"au",
+				"authorization"
+			],
+			[
+				"lo",
+				"loginUser"
+			],
+			[
+				"res",
+				"res"
+			],
+			[
+				"use",
+				"user_routes"
+			],
+			[
+				"Ar",
+				"ArtistSchema"
+			],
+			[
+				"User",
+				"UserSchema"
+			],
+			[
+				"bo",
+				"bodyParser"
+			],
+			[
+				"usuario",
+				"usuario"
+			],
+			[
+				"pu",
+				"publicacion"
+			],
+			[
+				"carteler",
+				"carteleraEdit"
+			],
+			[
+				"id",
+				"idPublicacion"
+			],
+			[
+				"publica",
+				"publicacionEdit"
+			],
+			[
+				"publ",
+				"publicacionEdit"
+			],
+			[
+				"uplo",
+				"uploadFileToUrl"
+			],
+			[
+				"nombre",
+				"nombreArchivo"
+			],
+			[
+				"idC",
+				"idCartelera"
+			],
+			[
+				"carte",
+				"carteleraActual"
+			],
+			[
+				"getCar",
+				"getCartelerasHabilitadas"
+			],
+			[
+				"getca",
+				"getCartelerasHabilitadas"
+			],
+			[
+				"car",
+				"cartelera"
+			],
+			[
+				"cargar",
+				"cargarUsuarios"
+			],
+			[
+				"carteleras",
+				"cartelerasHabilitadas"
+			],
+			[
+				"Usuar",
+				"UsuarioService"
+			],
+			[
+				"ge",
+				"getUsuario"
+			],
+			[
+				"AB",
+				"ABMusuarios"
+			],
+			[
+				"state",
+				"stateParams"
+			],
+			[
+				"n",
+				"nuevaCartelara"
+			],
+			[
+				"fecha",
+				"fechaCreacion"
+			],
+			[
+				"new",
+				"newComment"
+			],
+			[
+				"pass",
+				"password2"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"elemt",
+				"elementos_por_pagina"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"pago",
+				"pago"
+			],
+			[
+				"pagina",
+				"paginacion"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"ruta",
+				"rutaAlterna"
+			],
+			[
+				"ru",
+				"rutaAlterna"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"fe",
+				"fetchAll"
+			],
+			[
+				"Exception",
+				"Exception"
+			],
+			[
+				"ag",
+				"agregar"
+			],
+			[
+				"Persona",
+				"Persona"
+			],
+			[
+				"Pers",
+				"Persona"
+			],
+			[
+				"Re",
+				"Response"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/curso-mean/api/services/jwt.js",
+		"/C/xampp/htdocs/curso-mean/api/middlewares/authenticated.js",
+		"/C/xampp/htdocs/curso-mean/api/controllers/user.js",
+		"/C/xampp/htdocs/curso-mean/api/routes/user.js",
+		"/C/xampp/htdocs/curso-mean/api/app.js",
+		"/C/xampp/htdocs/curso-mean/api/index.js",
+		"/C/xampp/htdocs/curso-mean/client/src/app/app.component.ts",
+		"/C/Users/Maxi/Documents/Facultad/Conceptos y Aplicaciones en Big Data/Compartida/Big-Data-Project/tp-3/src/main/java/wordcount/StreamingWCConPersistencia.java",
+		"/C/Users/Maxi/Documents/Facultad/Conceptos y Aplicaciones en Big Data/Compartida/Big-Data-Project/src/trabajo_practico/MapperOne.java",
+		"/C/xampp/htdocs/curso-mean/client/src/app/app.component.html",
+		"/C/xampp/htdocs/curso-mean/client/src/app/models/song.ts",
+		"/C/xampp/htdocs/curso-mean/client/src/app/models/album.ts",
+		"/C/xampp/htdocs/curso-mean/client/src/app/models/user.ts",
+		"/C/xampp/htdocs/curso-mean/client/src/app/models/artist.ts",
+		"/C/xampp/htdocs/curso-mean/client/src/assets/css/styles.css",
+		"/C/xampp/htdocs/curso-mean/client/src/index.html",
+		"/C/xampp/htdocs/curso-mean/client/curso-angular-cli/src/app/app.module.ts",
+		"/C/xampp/htdocs/curso-mean/controllers/user.js",
+		"/C/xampp/htdocs/curso-mean/app.js",
+		"/C/xampp/htdocs/curso-mean/models/album.js",
+		"/C/xampp/htdocs/curso-mean/models/artist.js",
+		"/C/xampp/htdocs/curso-mean/routes/artist.js",
+		"/C/xampp/htdocs/curso-mean/routes/song.js",
+		"/C/xampp/htdocs/curso-mean/controllers/song.js",
+		"/C/xampp/htdocs/curso-mean/routes/album.js",
+		"/C/xampp/htdocs/curso-mean/controllers/album.js",
+		"/C/xampp/htdocs/curso-mean/controllers/artist.js",
+		"/C/xampp/htdocs/curso-mean/routes/user.js",
+		"/C/xampp/htdocs/curso-mean/services/jwt.js",
+		"/C/xampp/htdocs/curso-mean/middlewares/authenticated.js",
+		"/C/xampp/htdocs/curso-mean/index.js",
+		"/C/xampp/htdocs/curso-mean/package.json",
+		"/C/xampp/htdocs/curso-mean/models/user.js",
+		"/C/xampp/htdocs/curso-mean/models/song.js",
+		"/C/cygwin64/home/Maxi/.bash_profile",
+		"/C/Users/Maxi/Documents/PhoneGap - Projects/HelloWorld/www/js/index.js",
+		"/C/Users/Maxi/Documents/PhoneGap - Projects/HelloWorld/www/index.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMpermisos/controllers/ABMpermisos.ctrl.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/cartelera/services/cartelera.service.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMpublicaciones/controllers/ABMpublicaciones.ctrl.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/cartelera/views/home.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMpublicaciones/route.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMpublicaciones/views/ABMpublicaciones.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMusuarios/controllers/ABMusuarios.ctrl.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMcarteleras/controllers/ABMcarteleras.ctrl.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMpublicaciones/views/AltaPublicacion.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/cartelera/route.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMcarteleras/route.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/login/controllers/login.ctrl.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/cartelera/controllers/detail.ctrl.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/login/services/login.service.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/index.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMcarteleras/views/ABMCartelera.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/AlumnosInteresados/views/AlumnosInteresados.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/AlumnosInteresados/controllers/AlumnosInteresados.ctrl.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/intereses/views/Intereses.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/intereses/controllers/Intereses.ctrl.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMpermisos/views/ABMpermisos.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMusuarios/views/ABMusuarios.html",
+		"/C/Proyectos/Senado/tfs/Sel/main/WebUI/Views/Shared/_VisualizarNota.cshtml",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/cartelera/controllers/cartelera.ctrl.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMpublicaciones/views/EdicionPublicacion.html",
+		"/C/Users/Maxi/Documents/Visual Studio 2015/Projects/Metronic/Metronic/UI/theme/admin_3/components_bootstrap_fileinput.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/cartelera/views/perfil.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/shared/libs/dirPagination.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/app.modules.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/cartelera/views/menu.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/cartelera/views/detail.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMcarteleras/views/nuevaCartelera.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMcarteleras/views/editarCartelera.html",
+		"/C/Users/Maxi/Documents/Visual Studio 2015/Projects/Metronic/Metronic/UI/theme/assets/pages/scripts/ui-confirmations.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/administracion/route.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/cartelera/views/footer.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/administracion/controllers/administracion.ctrl.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMpublicaciones/services/publicacion.service.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/administracion/views/editarCartelera.html",
+		"/C/Users/Maxi/Documents/Visual Studio 2015/Projects/Metronic/Metronic/UI/theme/admin_3/ui_confirmations.html",
+		"/C/Users/Maxi/Documents/Visual Studio 2015/Projects/Metronic/Metronic/UI/theme/admin_3/ui_sweetalert.html",
+		"/C/Users/Maxi/Documents/Visual Studio 2015/Projects/Metronic/Metronic/UI/theme/assets/pages/scripts/ui-confirmations.min.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/cartelera/services/perfil.service.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/cartelera/controllers/perfil.ctrl.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/uploadFilePublicacion.php",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/upload.php",
+		"/C/Users/Maxi/Documents/Visual Studio 2015/Projects/Metronic/Metronic/UI/theme/admin_3/page_user_profile_1_account.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/app/http.token.interceptor.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/app/run.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/app/environment.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMusuarios/services/usuarios.service.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/AlumnosInteresados/route.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMpermisos/views/AgregarPermisos.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMpermisos/route.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/administracion/views/ABMCartelera.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMusuarios/route.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMusuarios/views/AltaUsuarios.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/intereses/route.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/header.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/administracion/views/nuevaCartelera.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMusuarios/views/EdicionUsuarios.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMusuarios/services/perfil.service.js",
+		"/C/Users/Maxi/Documents/Facultad/Conceptos y Aplicaciones en Big Data/Compartida/Big-Data-Project/src/trabajo_practico/ReducerFour.java",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/login/views/login.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMusuarios/services/cartelera.service.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/login/route.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/app/route.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/ABMpublicaciones/views/ABMCartelera.html",
+		"/C/Users/Maxi/Documents/server.js",
+		"/C/Users/Maxi/Documents/main.js",
+		"/C/Users/Maxi/Documents/Visual Studio 2015/Projects/Metronic/Metronic/UI/theme/assets/pages/scripts/portfolio-1.min.js",
+		"/C/Users/Maxi/Documents/Visual Studio 2015/Projects/Metronic/Metronic/UI/theme/assets/pages/scripts/portfolio-1.js",
+		"/C/Users/Maxi/Documents/Visual Studio 2015/Projects/Metronic/Metronic/UI/theme/admin_3/page_general_portfolio_1.html",
+		"/C/Users/Maxi/Documents/Visual Studio 2015/Projects/Metronic/Metronic/UI/theme/admin_3/index.html",
+		"/C/Users/Maxi/Documents/Visual Studio 2015/Projects/Metronic/Metronic/UI/theme/admin_3/form_controls.html",
+		"/C/Users/Maxi/Documents/Visual Studio 2015/Projects/Metronic/Metronic/UI/theme/admin_3/portlet_light.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/app/header.directive.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/app/enter.directive.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/login/views/registro.html",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/assets/pages/scripts/login.js",
+		"/C/Users/Maxi/Documents/Facultad/Conceptos y Aplicaciones en Big Data/Compartida/Big-Data-Project/src/trabajo_practico/ReducerThree.java",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/assets/pages/scripts/login.min.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/assets/global/scripts/app.js",
+		"/C/Users/Maxi/workspace/TTPS/Angular/carteleras/app/js/login/services/auth.service.js",
+		"/C/Users/Maxi/Documents/Facultad/Conceptos y Aplicaciones en Big Data/Compartida/Clase 3 - Ejercicio 2/bin/wordcount/Worker.class",
+		"/C/Users/Maxi/Documents/Facultad/Conceptos y Aplicaciones en Big Data/Compartida/Clase 3 - Ejercicio 2/bin/wordcount/Main.class",
+		"/C/Users/Maxi/workspace/Angular/carteleras/app/js/login/controllers/login.ctrl.js",
+		"/C/Users/Maxi/workspace/Angular/carteleras/app/js/cartelera/views/detail.html",
+		"/C/Users/Maxi/workspace/Angular/carteleras/app/js/cartelera/services/cartelera.service.js",
+		"/C/Users/Maxi/workspace/Angular/carteleras/app/js/cartelera/controllers/detail.ctrl.js",
+		"/C/Users/Maxi/workspace/Angular/carteleras/app/js/cartelera/route.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Image Upload",
+			"sweet",
+			"sweet-alert",
+			"popover fade",
+			"popover confirmation",
+			"ng",
+			"cbp",
+			"js-f",
+			"Editar",
+			"if",
+			"<",
+			"fa",
+			"idPublicacion",
+			"fa",
+			"ico",
+			"fa",
+			"fav",
+			"avatar",
+			".register-form",
+			"cargarPublicaciones",
+			"fav",
+			"favicon",
+			"page-head",
+			"Cartelera",
+			"<",
+			"usuario",
+			"cartelera",
+			"ng-",
+			"assets",
+			"img",
+			"total_ventas",
+			"buscar_pago"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true
+}
